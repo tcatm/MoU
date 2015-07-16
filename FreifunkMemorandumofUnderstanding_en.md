@@ -41,7 +41,7 @@ In addition to the ideals of free networks, and based on the [Picopeering Agreem
   * we log neither connection information, nor data in transit
   * we do not save personally identifiable data except the one explicitly provided by operators to facilitate network maintenance, such as contact information and geographical coordinates
 
-It follows that a Freifunk network is distinct from other networks at its boundaries (e.g. a home network or the Internet). Traffic entering such networks is not Freifunk traffic. Communities or node operators can, however, decide to establish peerings with other networks at the Freifunk network's boundaries to participate in larger networks. This may even include transit. When doing so, it is important not to degrade Freifunk to a mere access network.
+It follows that a Freifunk network is distinct from other networks at its boundaries (e.g. a home network or the Internet). Traffic entering such networks is not Freifunk traffic. Communities or node operators can, however, decide to establish peerings with other networks at the Freifunk network's boundaries to participate in larger networks. This may even include transit. When doing so, it is important not to degrade Freifunk to a mere solution to access other networks.
 
 ### Goals of Freifunk
 
