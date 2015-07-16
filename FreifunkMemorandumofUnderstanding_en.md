@@ -41,7 +41,7 @@ In addition to the ideals of free networks, and based on the [Picopeering Agreem
   * we log neither connection information, nor data in transit
   * we do not save personally identifiable data except the one explicitly provided by operators to facilitate network maintenance, such as contact information and geographical coordinates
 
-It follows that a Freifunk network ends where the Internet or any private network (e.g. a home network) begins. Traffic entering such networks is not Freifunk traffic. Node operators can, however, decide whether they would like to provide Internet access, be it for the participants of the mesh network or for the public. When doing so, it is important that Freifunk should not be perceived as a "provider of free-of-charge Internet access".
+It follows that a Freifunk network is distinct from other networks at its boundaries (e.g. a home network or the Internet). Traffic entering such networks is not Freifunk traffic. Communities or node operators can, however, decide to establish peerings with other networks at the Freifunk network's boundaries to participate in larger networks. This may even include transit. When doing so, it is important not to degrade Freifunk to a mere access network.
 
 ### Goals of Freifunk
 
